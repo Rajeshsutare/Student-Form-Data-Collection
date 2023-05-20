@@ -1,0 +1,16 @@
+
+
+
+body{
+ 
+    background: linear-gradient(to right, #333399, #ff00cc); 
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto Slab', serif;
+}
+.formInfo{
+    border: 2px solid #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 5px 5px 10px #fff;
+}
